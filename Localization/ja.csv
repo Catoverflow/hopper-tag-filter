@@ -1,0 +1,7 @@
+# ja.csv
+btn_add_tags,タグを追加
+btn_pick_from_item,アイテムから選択
+pick_hint,アイテムをクリックするとタグを表示する。
+pick_item,クリックで{0}のタグを表示。
+section_internal,内部タグ
+tag.STOLEN_TAG,盗品

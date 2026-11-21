@@ -1,0 +1,7 @@
+# ru.csv
+btn_add_tags,Добавить теги
+btn_pick_from_item,Выбрать по предмету
+pick_hint,Нажмите на предмет, чтобы увидеть его теги.
+pick_item,Нажмите, чтобы увидеть теги: {0}.
+section_internal,Внутренние теги
+tag.STOLEN_TAG,Украдено

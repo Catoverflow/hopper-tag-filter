@@ -1,0 +1,7 @@
+# es.csv
+btn_add_tags,Añadir etiquetas
+btn_pick_from_item,Elegir de un objeto
+pick_hint,Haz clic en un objeto para ver sus etiquetas.
+pick_item,Haz clic para ver las etiquetas de {0}.
+section_internal,Etiquetas internas
+tag.STOLEN_TAG,Robado

@@ -33,4 +33,8 @@ Set `GAME_DIR` if the game is not in the default Steam library.
 - Not compatible with other mods that replace the intake hopper's window or filter.
 - Hoppers triggered by "run whenever an item is added" or "run when this hopper is moved" follow the run order too. The game itself only does that for the nightly run.
 - Tags are saved in the hopper's own filter list as `tag:<TYPE>`. Without the mod they match nothing and the save still loads.
-- Type and category names come from the game, in whatever language it runs in. The mod's own six strings are in English and Chinese.
+- Type and category names come from the game, in whatever language it runs in. The mod's own six strings are translated into the eight languages the game has text for: English, Chinese, French, German, Spanish, Polish, Russian and Japanese. Corrections are welcome.
+
+## License
+
+MIT

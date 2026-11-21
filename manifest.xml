@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModManifest>
   <ID>hopper_tag_filter</ID>
-  <Name>料斗标签过滤 Hopper Tag Filter</Name>
+  <Name>为料斗添加标签 Add Tag to Hopper</Name>
   <Author>catoverflow</Author>
   <ModVersion>1.0.0</ModVersion>
-  <Description>进料斗的筛选列表可以添加标签，按物品类型搬运。Adds tags to the intake hopper's filter list, so it can move items by type.</Description>
+  <Description>Hoppers can now filter items by type 料斗可以按类型选取物品</Description>
 
   <GameVersions>
     <Version>1.0</Version>

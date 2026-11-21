@@ -1,0 +1,7 @@
+# pl.csv
+btn_add_tags,Dodaj tagi
+btn_pick_from_item,Wybierz z przedmiotu
+pick_hint,Kliknij przedmiot, by zobaczyć jego tagi.
+pick_item,Kliknij, by zobaczyć tagi: {0}.
+section_internal,Tagi wewnętrzne
+tag.STOLEN_TAG,Kradzione

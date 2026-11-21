@@ -1,0 +1,7 @@
+# de.csv
+btn_add_tags,Tags hinzufügen
+btn_pick_from_item,Von Gegenstand auswählen
+pick_hint,Klicke auf einen Gegenstand, um seine Tags zu sehen.
+pick_item,Klicken, um die Tags von {0} zu sehen.
+section_internal,Interne Tags
+tag.STOLEN_TAG,Gestohlen

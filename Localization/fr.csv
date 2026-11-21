@@ -1,0 +1,7 @@
+# fr.csv
+btn_add_tags,Ajouter des tags
+btn_pick_from_item,Choisir depuis un objet
+pick_hint,Cliquez sur un objet pour voir ses tags.
+pick_item,Cliquez pour voir les tags : {0}.
+section_internal,Tags internes
+tag.STOLEN_TAG,Objet volé
