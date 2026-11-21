@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModManifest>
+  <ID>hopper_tag_filter</ID>
+  <Name>料斗标签过滤 Hopper Tag Filter</Name>
+  <Author>catoverflow</Author>
+  <ModVersion>1.0.0</ModVersion>
+  <Description>进料斗的筛选列表可以添加标签，按物品类型搬运。Adds tags to the intake hopper's filter list, so it can move items by type.</Description>
+
+  <GameVersions>
+    <Version>1.0</Version>
+  </GameVersions>
+
+  <Prerequisites />
+
+  <Assemblies>
+    <Assembly>HopperTagFilter.dll</Assembly>
+  </Assemblies>
+
+  <!-- Only Harmony patches on the game's own hopper code. -->
+  <Capabilities />
+</ModManifest>

@@ -1,0 +1,7 @@
+# en.csv
+btn_add_tags,Add tags
+btn_pick_from_item,Pick from an item
+pick_hint,Click an item to see its tags.
+pick_item,Click to see the tags of {0}.
+section_internal,Internal tags
+tag.STOLEN_TAG,Stolen

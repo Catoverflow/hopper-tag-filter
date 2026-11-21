@@ -1,0 +1,7 @@
+# zh.csv
+btn_add_tags,添加标签
+btn_pick_from_item,从物品选取
+pick_hint,点击物品查看它的标签。
+pick_item,点击查看{0}的标签。
+section_internal,内部标签
+tag.STOLEN_TAG,赃物
