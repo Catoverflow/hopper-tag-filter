@@ -27,6 +27,10 @@ Needs Mono's C# compiler (`csc` or `mcs`) and the game installed.
 
 Set `GAME_DIR` if the game is not in the default Steam library.
 
+## Publish
+
+The game has no upload button; Workshop items go up with Valve's `steamcmd`. `./workshop.sh "what changed"` builds the mod, writes `dist/workshop.vdf` and prints the `steamcmd` command to run. Items are created hidden; use `VISIBILITY=0` to make them public. A `preview.png` next to the script is used as the Workshop image if it exists.
+
 ## Notes
 
 - Built for game version 1.0.0.16.
