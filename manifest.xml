@@ -6,7 +6,9 @@
   <ModVersion>1.0.0</ModVersion>
   <Description>Hoppers can now filter items by type 料斗可以按类型选取物品</Description>
 
+  <!-- 0.46D is what the release build calls itself; 1.0.0 is the beta branch. -->
   <GameVersions>
+    <Version>0.46D</Version>
     <Version>1.0.0</Version>
   </GameVersions>
 
