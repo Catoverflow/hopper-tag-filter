@@ -14,7 +14,7 @@ An item counts as listed when it is on the list itself or carries any listed tag
 
 ## Install
 
-Copy the `HopperTagFilter` folder into the game's `Mods` folder, activate the mod in the game's mod list and restart.
+Subscribe on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3843352210), or copy the `HopperTagFilter` folder into the game's `Mods` folder. Then activate the mod in the game's mod list and restart.
 
 ## Build
 
